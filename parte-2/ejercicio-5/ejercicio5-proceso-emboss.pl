@@ -7,7 +7,7 @@ use warnings;
 my $input_fasta_file = "MYBPC3-mNRA-sequence.fasta";
 
 # Ruta de la base de datos de dominios y funcionalidades
-my $prosite_db_path = "/Users/fprandi/Documents/repos/bioperl/TP Bioinformática-p2/prosite.dat";
+my $prosite_db_path = "prosite.dat";
 
 # Programa para obtener los ORF's
 my $orf_output = `getorf -sequence $input_fasta_file -outseq orfs.fasta`;
