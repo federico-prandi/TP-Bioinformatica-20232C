@@ -1,36 +1,47 @@
 #!/usr/bin/perl
+
 use strict;
 use warnings;
-use Bio::SeqIO;
+use Bio::AlignIO;
+use Bio::SimpleAlign;
 use Bio::Tools::Run::Alignment::Clustalw;
 
-# Archivos FASTA de secuencias de entrada
-my @input_files = ("gallus-gallus-sequence.fasta", "mus-musculus-sequence.fasta", "rattus-norvegicus-sequence.fasta","MYBPC3-homo-sapiens.fasta" );
+sub run_clustal_omega {
+    my ($sequences, $output_fasta) = @_;
 
-# Crear un objeto de alineamiento ClustalW
-my $clustalw = Bio::Tools::Run::Alignment::Clustalw->new();
+    my $align_factory = Bio::Tools::Run::Alignment::Clustalw->new;
+    my $alignment = $align_factory->align($sequences);
 
-# Leer las secuencias de entrada
-my @sequences;
-foreach my $input_file (@input_files) {
-    my $seqio = Bio::SeqIO->new(-file => $input_file, -format => 'fasta', -alphabet => 'protein');
-    my $seq = $seqio->next_seq;
-    push @sequences, $seq;
+    my $out = Bio::AlignIO->new(-file => ">$output_fasta", -format => 'fasta');
+    $out->write_aln($alignment);
+
+    print "Multi-Sequence Alignment completed successfully.\n";
 }
 
+sub add_unique_identifiers {
+    my $sequences = shift;
 
-print "Secuencia de entrada 1: ", $sequences[0]->seq, "\n";
-print "Secuencia de entrada 2: ", $sequences[1]->seq, "\n";
-print "Secuencia de entrada 3: ", $sequences[2]->seq, "\n";
-print "Secuencia de entrada 4: ", $sequences[3]->seq, "\n";
+    my $counter = 1;
+    foreach my $seq (@$sequences) {
+        my $id = "sequence_$counter";
+        $seq->id($id);
+        $seq->display_id($id);
+        $counter++;
+    }
 
-# Ejecutar el alineamiento múltiple
-my $aln = $clustalw->profile_align(\@sequences);
+    return $sequences;
+}
 
-print "Resultado del alineamiento: ", $aln->display_id, "\n";
+my @sequences;
 
-# Imprimir el resultado
-my $aln_out = Bio::AlignIO->new(-file => ">multiple_alignment.fasta", -format => 'fasta');
-$aln_out->write_aln($aln);
+# Load sequences from input FASTA files
+push @sequences, Bio::SeqIO->new(-file => "MYBPC3-homo-sapiens.fasta", -format => 'fasta')->next_seq;
+push @sequences, Bio::SeqIO->new(-file => "gallus-gallus-sequence.fasta", -format => 'fasta')->next_seq;
+push @sequences, Bio::SeqIO->new(-file => "mus-musculus-sequence.fasta", -format => 'fasta')->next_seq;
+push @sequences, Bio::SeqIO->new(-file => "rattus-norvegicus-sequence.fasta", -format => 'fasta')->next_seq;
 
-print "Alineamiento múltiple completado. Resultados guardados en 'multiple_alignment.fasta'\n";
+# Add unique identifiers to the sequences
+@sequences = @{add_unique_identifiers(\@sequences)};
+
+# Run Clustal Omega to perform the Multi-Sequence Alignment
+run_clustal_omega(\@sequences, "output_alignment.fasta");
