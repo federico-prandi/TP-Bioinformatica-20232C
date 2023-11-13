@@ -1,0 +1,473 @@
+LOCUS       NM_000256               4217 bp    mRNA    linear   PRI 17-SEP-2023
+DEFINITION  Homo sapiens myosin binding protein C3 (MYBPC3), mRNA.
+ACCESSION   NM_000256
+VERSION     NM_000256.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4217)
+  AUTHORS   Beltrami M, Fedele E, Fumagalli C, Mazzarotto F, Girolami F,
+            Ferrantini C, Coppini R, Tofani L, Bertaccini B, Poggesi C and
+            Olivotto I.
+  TITLE     Long-Term Prevalence of Systolic Dysfunction in MYBPC3 Versus
+            MYH7-Related Hypertrophic Cardiomyopathy
+  JOURNAL   Circ Genom Precis Med 16 (4), 363-371 (2023)
+   PUBMED   37409452
+  REMARK    GeneRIF: Long-Term Prevalence of Systolic Dysfunction in MYBPC3
+            Versus MYH7-Related Hypertrophic Cardiomyopathy.
+            Review article
+REFERENCE   2  (bases 1 to 4217)
+  AUTHORS   Tudurachi BS, Zavoi A, Leonte A, Tapoi L, Ureche C, Birgoan SG,
+            Chiuariu T, Anghel L, Radu R, Sascau RA and Statescu C.
+  TITLE     An Update on MYBPC3 Gene Mutation in Hypertrophic Cardiomyopathy
+  JOURNAL   Int J Mol Sci 24 (13), 10510 (2023)
+   PUBMED   37445689
+  REMARK    GeneRIF: An Update on MYBPC3 Gene Mutation in Hypertrophic
+            Cardiomyopathy.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 4217)
+  AUTHORS   Filatova EV, Krylova NS, Klass AL, Kovalevskaya EA, Maslova MY,
+            Shadrina MI, Poteshkina NG and Slominsky PA.
+  TITLE     [No Effect of the p.Arg230His Variant Of The VCL Protein on the
+            Course of the Hypertrophic Cardiomyopathy In Russian Family
+            Carrying The p.Gln1233Ter Pathogenic Variant In The MYBPC3 Gene]
+  JOURNAL   Kardiologiia 63 (3), 28-35 (2023)
+   PUBMED   37061858
+  REMARK    GeneRIF: [No Effect of the p.Arg230His Variant Of The VCL Protein
+            on the Course of the Hypertrophic Cardiomyopathy In Russian Family
+            Carrying The p.Gln1233Ter Pathogenic Variant In The MYBPC3 Gene].
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4217)
+  AUTHORS   Fernandez Suarez N, Viadero Ubierna MT, Garde Basas J, Onecha de la
+            Fuente ME, Amigo Lanza MT, Martin Gorria G, Rivas Perez A, Ruiz
+            Guerrero L and Gonzalez-Lamuno D.
+  TITLE     Description of a Cohort with a New Truncating MYBPC3 Variant for
+            Hypertrophic Cardiomyopathy in Northern Spain
+  JOURNAL   Genes (Basel) 14 (4), 840 (2023)
+   PUBMED   37107598
+  REMARK    GeneRIF: Description of a Cohort with a New Truncating MYBPC3
+            Variant for Hypertrophic Cardiomyopathy in Northern Spain.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 4217)
+  AUTHORS   Bonne G, Carrier L, Bercovici J, Cruaud C, Richard P, Hainque B,
+            Gautel M, Labeit S, James M, Beckmann J, Weissenbach J, Vosberg HP,
+            Fiszman M, Komajda M and Schwartz K.
+  TITLE     Cardiac myosin binding protein-C gene splice acceptor site mutation
+            is associated with familial hypertrophic cardiomyopathy
+  JOURNAL   Nat Genet 11 (4), 438-440 (1995)
+   PUBMED   7493026
+REFERENCE   6  (bases 1 to 4217)
+  AUTHORS   Watkins H, Conner D, Thierfelder L, Jarcho JA, MacRae C, McKenna
+            WJ, Maron BJ, Seidman JG and Seidman CE.
+  TITLE     Mutations in the cardiac myosin binding protein-C gene on
+            chromosome 11 cause familial hypertrophic cardiomyopathy
+  JOURNAL   Nat Genet 11 (4), 434-437 (1995)
+   PUBMED   7493025
+REFERENCE   7  (bases 1 to 4217)
+  AUTHORS   Cirino,A.L. and Ho,C.
+  TITLE     Hypertrophic Cardiomyopathy Overview
+  JOURNAL   (in) Adam MP, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW
+            and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301725
+REFERENCE   8  (bases 1 to 4217)
+  AUTHORS   Hershberger,R.E. and Jordan,E.
+  TITLE     Dilated Cardiomyopathy Overview
+  JOURNAL   (in) Adam MP, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW
+            and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301486
+REFERENCE   9  (bases 1 to 4217)
+  AUTHORS   Moos,C. and Feng,I.N.
+  TITLE     Effect of C-protein on actomyosin ATPase
+  JOURNAL   Biochim Biophys Acta 632 (2), 141-149 (1980)
+   PUBMED   6448079
+REFERENCE   10 (bases 1 to 4217)
+  AUTHORS   Starr,R. and Offer,G.
+  TITLE     The interaction of C-protein with heavy meromyosin and
+            subfragment-2
+  JOURNAL   Biochem J 171 (3), 813-816 (1978)
+   PUBMED   352343
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from EF560722.1, AU140784.1,
+            AJ708511.1, AL691822.1, DA563514.1 and AJ708699.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jun 5, 2007 this sequence version replaced NM_000256.2.
+            
+            Summary: MYBPC3 encodes the cardiac isoform of myosin-binding
+            protein C. Myosin-binding protein C is a myosin-associated protein
+            found in the cross-bridge-bearing zone (C region) of A bands in
+            striated muscle. MYBPC3 is expressed exclusively in heart muscle
+            and is a key regulator of cardiac contraction. Mutations in this
+            gene are a frequent cause of familial hypertrophic cardiomyopathy.
+            [provided by RefSeq, May 2022].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: EU747719.1, EU747718.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000545968.6/ ENSP00000442795.1
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-253               EF560722.1         2-254
+            254-603             AU140784.1         254-603
+            604-1025            EF560722.1         605-1026
+            1026-1145           AJ708511.1         174-293
+            1146-1249           EF560722.1         1147-1250
+            1250-1327           AL691822.1         110-187
+            1328-2879           EF560722.1         1329-2880
+            2880-3275           DA563514.1         49-444
+            3276-4045           EF560722.1         3277-4046
+            4046-4217           AJ708699.1         293-464
+FEATURES             Location/Qualifiers
+     source          1..4217
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11p11.2"
+     gene            1..4217
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="myosin binding protein C3"
+                     /db_xref="GeneID:4607"
+                     /db_xref="HGNC:HGNC:7551"
+                     /db_xref="MIM:600958"
+     exon            1..80
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             56..3880
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="myosin binding protein C, cardiac"
+                     /codon_start=1
+                     /product="myosin-binding protein C, cardiac-type"
+                     /protein_id="NP_000247.2"
+                     /db_xref="CCDS:CCDS53621.1"
+                     /db_xref="GeneID:4607"
+                     /db_xref="HGNC:HGNC:7551"
+                     /db_xref="MIM:600958"
+                     /translation="MPEPGKKPVSAFSKKPRSVEVAAGSPAVFEAETERAGVKVRWQR
+                     GGSDISASNKYGLATEGTRHTLTVREVGPADQGSYAVIAGSSKVKFDLKVIEAEKAEP
+                     MLAPAPAPAEATGAPGEAPAPAAELGESAPSPKGSSSAALNGPTPGAPDDPIGLFVMR
+                     PQDGEVTVGGSITFSARVAGASLLKPPVVKWFKGKWVDLSSKVGQHLQLHDSYDRASK
+                     VYLFELHITDAQPAFTGSYRCEVSTKDKFDCSNFNLTVHEAMGTGDLDLLSAFRRTSL
+                     AGGGRRISDSHEDTGILDFSSLLKKRDSFRTPRDSKLEAPAEEDVWEILRQAPPSEYE
+                     RIAFQYGVTDLRGMLKRLKGMRRDEKKSTAFQKKLEPAYQVSKGHKIRLTVELADHDA
+                     EVKWLKNGQEIQMSGSKYIFESIGAKRTLTISQCSLADDAAYQCVVGGEKCSTELFVK
+                     EPPVLITRPLEDQLVMVGQRVEFECEVSEEGAQVKWLKDGVELTREETFKYRFKKDGQ
+                     RHHLIINEAMLEDAGHYALCTSGGQALAELIVQEKKLEVYQSIADLMVGAKDQAVFKC
+                     EVSDENVRGVWLKNGKELVPDSRIKVSHIGRVHKLTIDDVTPADEADYSFVPEGFACN
+                     LSAKLHFMEVKIDFVPRQEPPKIHLDCPGRIPDTIVVVAGNKLRLDVPISGDPAPTVI
+                     WQKAITQGNKAPARPAPDAPEDTGDSDEWVFDKKLLCETEGRVRVETTKDRSIFTVEG
+                     AEKEDEGVYTVTVKNPVGEDQVNLTVKVIDVPDAPAAPKISNVGEDSCTVQWEPPAYD
+                     GGQPILGYILERKKKKSYRWMRLNFDLIQELSHEARRMIEGVVYEMRVYAVNAIGMSR
+                     PSPASQPFMPIGPPSEPTHLAVEDVSDTTVSLKWRPPERVGAGGLDGYSVEYCPEGCS
+                     EWVAALQGLTEHTSILVKDLPTGARLLFRVRAHNMAGPGAPVTTTEPVTVQEILQRPR
+                     LQLPRHLRQTIQKKVGEPVNLLIPFQGKPRPQVTWTKEGQPLAGEEVSIRNSPTDTIL
+                     FIRAARRVHSGTYQVTVRIENMEDKATLVLQVVDKPSPPQDLRVTDAWGLNVALEWKP
+                     PQDVGNTELWGYTVQKADKKTMEWFTVLEHYRRTHCVVPELIIGNGYYFRVFSQNMVG
+                     FSDRAATTKEPVFIPRPGITYEPPNYKALDFSEAPSFTQPLVNRSVIAGYTAMLCCAV
+                     RGSPKPKISWFKNGLDLGEDARFRMFSKQGVLTLEIRKPCPFDGGIYVCRATNLQGEA
+                     RCECRLEVRVPQ"
+     misc_feature    56..58
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); acetylation site"
+     misc_feature    194..196
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    374..514
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q14896.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    878..880
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine, by PKA and PKC.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    905..907
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine, by PKA and PKC.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    965..967
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine, by PKA and PKC.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    986..988
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    1334..1336
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    1703..1705
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    1874..1876
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P56741; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); phosphorylation site"
+     misc_feature    3776..3778
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:O70468; propagated from
+                     UniProtKB/Swiss-Prot (Q14896.4); methylation site"
+     exon            81..347
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            348..461
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            462..560
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            561..709
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            710..827
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            828..876
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            877..906
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            907..960
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            961..963
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            964..981
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            982..1145
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1146..1278
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1279..1281
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1282..1406
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1407..1512
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1513..1679
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1680..1845
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1846..1952
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1953..1982
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1983..2122
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2123..2203
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2204..2363
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2364..2468
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2469..2657
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2658..2792
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2793..2960
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2961..3049
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3050..3245
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3246..3385
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3386..3545
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3546..3682
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3683..3869
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3870..3906
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3907..4217
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4186..4191
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="hexamer: AATAAA"
+     polyA_site      4217
+                     /gene="MYBPC3"
+                     /gene_synonym="CMD1MM; CMH4; cMyBP-C; FHC; LVNC10; MYBP-C"
+                     /note="major polyA site"
+ORIGIN      
+        1 agtccctctt tgggtgacct gtgcctgctt cgtgcctggt gtgacgtctc tcaggatgcc
+       61 tgagccgggg aagaagccag tctcagcttt tagcaagaag ccacggtcag tggaagtggc
+      121 cgcaggcagc cctgccgtgt tcgaggccga gacagagcgg gcaggagtga aggtgcgctg
+      181 gcagcgcgga ggcagtgaca tcagcgccag caacaagtac ggcctggcca cagagggcac
+      241 acggcatacg ctgacagtgc gggaagtggg ccctgccgac cagggatctt acgcagtcat
+      301 tgctggctcc tccaaggtca agttcgacct caaggtcata gaggcagaga aggcagagcc
+      361 catgctggcc cctgcccctg cccctgctga ggccactgga gcccctggag aagccccggc
+      421 cccagccgct gagctgggag aaagtgcccc aagtcccaaa gggtcaagct cagcagctct
+      481 caatggtcct acccctggag cccccgatga ccccattggc ctcttcgtga tgcggccaca
+      541 ggatggcgag gtgaccgtgg gtggcagcat caccttctca gcccgcgtgg ccggcgccag
+      601 cctcctgaag ccgcctgtgg tcaagtggtt caagggcaaa tgggtggacc tgagcagcaa
+      661 ggtgggccag cacctgcagc tgcacgacag ctacgaccgc gccagcaagg tctatctgtt
+      721 cgagctgcac atcaccgatg cccagcctgc cttcactggc agctaccgct gtgaggtgtc
+      781 caccaaggac aaatttgact gctccaactt caatctcact gtccacgagg ccatgggcac
+      841 cggagacctg gacctcctat cagccttccg ccgcacgagc ctggctggag gtggtcggcg
+      901 gatcagtgat agccatgagg acactgggat tctggacttc agctcactgc tgaaaaagag
+      961 agacagtttc cggaccccga gggactcgaa gctggaggca ccagcagagg aggacgtgtg
+     1021 ggagatccta cggcaggcac ccccatctga gtacgagcgc atcgccttcc agtacggcgt
+     1081 cactgacctg cgcggcatgc taaagaggct caagggcatg aggcgcgatg agaagaagag
+     1141 cacagccttt cagaagaagc tggagccggc ctaccaggtg agcaaaggcc acaagatccg
+     1201 gctgaccgtg gaactggctg accatgacgc tgaggtcaaa tggctcaaga atggccagga
+     1261 gatccagatg agcggcagca agtacatctt tgagtccatc ggtgccaagc gtaccctgac
+     1321 catcagccag tgctcattgg cggacgacgc agcctaccag tgcgtggtgg gtggcgagaa
+     1381 gtgtagcacg gagctctttg tgaaagagcc ccctgtgctc atcacgcgcc ccttggagga
+     1441 ccagctggtg atggtggggc agcgggtgga gtttgagtgt gaagtatcgg aggagggggc
+     1501 gcaagtcaaa tggctgaagg acggggtgga gctgacccgg gaggagacct tcaaataccg
+     1561 gttcaagaag gacgggcaga gacaccacct gatcatcaac gaggccatgc tggaggacgc
+     1621 ggggcactat gcactgtgca ctagcggggg ccaggcgctg gctgagctca ttgtgcagga
+     1681 aaagaagctg gaggtgtacc agagcatcgc agacctgatg gtgggcgcaa aggaccaggc
+     1741 ggtgttcaaa tgtgaggtct cagatgagaa tgttcggggt gtgtggctga agaatgggaa
+     1801 ggagctggtg cccgacagcc gcataaaggt gtcccacatc gggcgggtcc acaaactgac
+     1861 cattgacgac gtcacacctg ccgacgaggc tgactacagc tttgtgcccg agggcttcgc
+     1921 ctgcaacctg tcagccaagc tccacttcat ggaggtcaag attgacttcg tacccaggca
+     1981 ggaacctccc aagatccacc tggactgccc aggccgcata ccagacacca ttgtggttgt
+     2041 agctggaaat aagctacgtc tggacgtccc tatctctggg gaccctgctc ccactgtgat
+     2101 ctggcagaag gctatcacgc aggggaataa ggccccagcc aggccagccc cagatgcccc
+     2161 agaggacaca ggtgacagcg atgagtgggt gtttgacaag aagctgctgt gtgagaccga
+     2221 gggccgggtc cgcgtggaga ccaccaagga ccgcagcatc ttcacggtcg agggggcaga
+     2281 gaaggaagat gagggcgtct acacggtcac agtgaagaac cctgtgggcg aggaccaggt
+     2341 caacctcaca gtcaaggtca tcgacgtgcc agacgcacct gcggccccca agatcagcaa
+     2401 cgtgggagag gactcctgca cagtacagtg ggagccgcct gcctacgatg gcgggcagcc
+     2461 catcctgggc tacatcctgg agcgcaagaa gaagaagagc taccggtgga tgcggctgaa
+     2521 cttcgacctg attcaggagc tgagtcatga agcgcggcgc atgatcgagg gcgtggtgta
+     2581 cgagatgcgc gtctacgcgg tcaacgccat cggcatgtcc aggcccagcc ctgcctccca
+     2641 gcccttcatg cctatcggtc cccccagcga acccacccac ctggcagtag aggacgtctc
+     2701 tgacaccacg gtctccctca agtggcggcc cccagagcgc gtgggagcag gaggcctgga
+     2761 tggctacagc gtggagtact gcccagaggg ctgctcagag tgggtggctg ccctgcaggg
+     2821 gctgacagag cacacatcga tactggtgaa ggacctgccc acgggggccc ggctgctttt
+     2881 ccgagtgcgg gcacacaata tggcagggcc tggagcccct gttaccacca cggagccggt
+     2941 gacagtgcag gagatcctgc aacggccacg gcttcagctg cccaggcacc tgcgccagac
+     3001 cattcagaag aaggtcgggg agcctgtgaa ccttctcatc cctttccagg gcaagccccg
+     3061 gcctcaggtg acctggacca aagaggggca gcccctggca ggcgaggagg tgagcatccg
+     3121 caacagcccc acagacacca tcctgttcat ccgggccgct cgccgcgtgc attcaggcac
+     3181 ttaccaggtg acggtgcgca ttgagaacat ggaggacaag gccacgctgg tgctgcaggt
+     3241 tgttgacaag ccaagtcctc cccaggatct ccgggtgact gacgcctggg gtcttaatgt
+     3301 ggctctggag tggaagccac cccaggatgt cggcaacacg gagctctggg ggtacacagt
+     3361 gcagaaagcc gacaagaaga ccatggagtg gttcaccgtc ttggagcatt accgccgcac
+     3421 ccactgcgtg gtgccagagc tcatcattgg caatggctac tacttccgcg tcttcagcca
+     3481 gaatatggtt ggctttagtg acagagcggc caccaccaag gagcccgtct ttatccccag
+     3541 accaggcatc acctatgagc cacccaacta taaggccctg gacttctccg aggccccaag
+     3601 cttcacccag cccctggtga accgctcggt catcgcgggc tacactgcta tgctctgctg
+     3661 tgctgtccgg ggtagcccca agcccaagat ttcctggttc aagaatggcc tggacctggg
+     3721 agaagacgcc cgcttccgca tgttcagcaa gcagggagtg ttgactctgg agattagaaa
+     3781 gccctgcccc tttgacgggg gcatctatgt ctgcagggcc accaacttac agggcgaggc
+     3841 acggtgtgag tgccgcctgg aggtgcgagt gcctcagtga ccaggctggc tcctggggat
+     3901 ggccaggtac aaccggatgc cagccccgtg ccaggagcct ggagggaagt tggggaaacc
+     3961 cctccctact gttggatgta tgtgtgacaa gtgtgtctcc tgtgctgcga tgggggatca
+     4021 gcagggcagt tgtcgggcag tcctgagtgg gtgttgcaca gactggtcca cagggctcct
+     4081 gaaggaagcc cctggatctt tggggtaaaa ggagggtggc ctcaagaaac aatgtctggg
+     4141 gacaggcctt tctggcctgc tatgtcttcc caatgtttat tgggcaataa aagataagtg
+     4201 cagtcacaga gaactca
+//
+

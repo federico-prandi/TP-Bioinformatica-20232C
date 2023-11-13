@@ -1,0 +1,10 @@
+Q14896.4 RecName: Full=Myosin-binding protein C, cardiac-type; Sh...  2618    0.0   
+O70468.1 RecName: Full=Myosin-binding protein C, cardiac-type; Sh...  2322    0.0   
+P56741.2 RecName: Full=Myosin-binding protein C, cardiac-type; Sh...  2318    0.0   
+Q90688.3 RecName: Full=Myosin-binding protein C, cardiac-type; Sh...  1833    0.0   
+P16419.3 RecName: Full=Myosin-binding protein C, fast-type; Short...  1240    0.0   
+Q14324.2 RecName: Full=Myosin-binding protein C, fast-type; Short...  1222    0.0   
+Q5XKE0.1 RecName: Full=Myosin-binding protein C, fast-type; Short...  1207    0.0   
+Q00872.2 RecName: Full=Myosin-binding protein C, slow-type; Short...  1154    0.0   
+Q90233.1 RecName: Full=Myosin-binding protein C, cardiac-type; Sh...  663     0.0   
+Q63518.1 RecName: Full=Myosin-binding protein C, slow-type; Short...  563     0.0   
