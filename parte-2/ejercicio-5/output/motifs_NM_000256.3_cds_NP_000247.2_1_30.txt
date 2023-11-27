@@ -1,0 +1,34 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 27 Nov 2023 20:10:25
+# Commandline: patmatmotifs
+#    -sequence tmp_sequence_NM_000256.3_cds_NP_000247.2_1_30.fasta
+#    -outfile motifs_NM_000256.3_cds_NP_000247.2_1_30.txt
+# Report_format: dbmotif
+# Report_file: motifs_NM_000256.3_cds_NP_000247.2_1_30.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_000256.3_cds_NP_000247.2_1_30     from: 1   to: 53
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /opt/local/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 50 of sequence
+End = position 53 of sequence
+
+Motif = PRENYLATION
+
+GRGALCTVH
+     |  |
+    50  53
+
+
+#---------------------------------------
+#---------------------------------------

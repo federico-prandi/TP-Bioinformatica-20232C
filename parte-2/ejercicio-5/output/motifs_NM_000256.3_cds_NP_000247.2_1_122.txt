@@ -1,0 +1,34 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 27 Nov 2023 20:10:31
+# Commandline: patmatmotifs
+#    -sequence tmp_sequence_NM_000256.3_cds_NP_000247.2_1_122.fasta
+#    -outfile motifs_NM_000256.3_cds_NP_000247.2_1_122.txt
+# Report_format: dbmotif
+# Report_file: motifs_NM_000256.3_cds_NP_000247.2_1_122.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_000256.3_cds_NP_000247.2_1_122     from: 1   to: 77
+# HitCount: 1
+#
+# Full: No
+# Prune: Yes
+# Data_file: /opt/local/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 22
+Start = position 53 of sequence
+End = position 74 of sequence
+
+Motif = LEUCINE_ZIPPER
+
+VAFAHLVGRLQLLLKGCALLLIAPHALEPL
+     |                    |
+    53                    74
+
+
+#---------------------------------------
+#---------------------------------------

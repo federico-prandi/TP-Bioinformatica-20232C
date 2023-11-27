@@ -1,0 +1,54 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 27 Nov 2023 20:10:27
+# Commandline: patmatmotifs
+#    -sequence tmp_sequence_NM_000256.3_cds_NP_000247.2_1_68.fasta
+#    -outfile motifs_NM_000256.3_cds_NP_000247.2_1_68.txt
+# Report_format: dbmotif
+# Report_file: motifs_NM_000256.3_cds_NP_000247.2_1_68.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_000256.3_cds_NP_000247.2_1_68     from: 1   to: 1274
+# HitCount: 3
+#
+# Full: No
+# Prune: Yes
+# Data_file: /opt/local/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 8
+Start = position 835 of sequence
+End = position 842 of sequence
+
+Motif = TYR_PHOSPHO_SITE_1
+
+SHEARRMIEGVVYEMRVY
+     |      |
+   835      842
+
+Length = 4
+Start = position 279 of sequence
+End = position 282 of sequence
+
+Motif = AMIDATION
+
+TSLAGGGRRISDSH
+     |  |
+   279  282
+
+Length = 4
+Start = position 4 of sequence
+End = position 7 of sequence
+
+Motif = AMIDATION
+
+MPEPGKKPVSAF
+   |  |
+   4  7
+
+
+#---------------------------------------
+#---------------------------------------

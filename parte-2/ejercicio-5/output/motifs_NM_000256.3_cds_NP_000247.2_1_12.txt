@@ -1,0 +1,44 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Mon 27 Nov 2023 20:10:23
+# Commandline: patmatmotifs
+#    -sequence tmp_sequence_NM_000256.3_cds_NP_000247.2_1_12.fasta
+#    -outfile motifs_NM_000256.3_cds_NP_000247.2_1_12.txt
+# Report_format: dbmotif
+# Report_file: motifs_NM_000256.3_cds_NP_000247.2_1_12.txt
+########################################
+
+#=======================================
+#
+# Sequence: NM_000256.3_cds_NP_000247.2_1_12     from: 1   to: 87
+# HitCount: 2
+#
+# Full: No
+# Prune: Yes
+# Data_file: /opt/local/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 4
+Start = position 26 of sequence
+End = position 29 of sequence
+
+Motif = AMIDATION
+
+HLLSPRGRRQPPEA
+     |  |
+    26  29
+
+Length = 3
+Start = position 13 of sequence
+End = position 15 of sequence
+
+Motif = RGD
+
+AATGWRGDRGWQH
+     | |
+    13 15
+
+
+#---------------------------------------
+#---------------------------------------
